@@ -99,8 +99,8 @@ GEU;Ijebu;x;;;;;;;;;;;;;;;;
 GEU_ADJ;Ijebuan;x;;;;;;;;;;;;;;;;
 NPE;Nupe;x;;;;;;;;;;;;;;;;
 NPE_ADJ;Nupean;x;;;;;;;;;;;;;;;;
-MND;Baté;x
-MND_ADJ;Batéan;x
+MND;BatÃ©;x
+MND_ADJ;BatÃ©an;x
 KAK;Kartli;x
 KAK_ADJ;Kartlian;x
 BNY;Bunyoro;x
@@ -133,8 +133,8 @@ QUA;Quapaw;x
 QUA_ADJ;Quapaw;x
 YCH;Yuchi;x
 YCH_ADJ;Yuchi;x
-MIS;Niúachi;x
-MIS_ADJ;Niúachi;x
+MIS;NiÃºachi;x
+MIS_ADJ;NiÃºachi;x
 SHH;Shoshone;x
 SHH_ADJ;Shoshone;x
 TGV;Takic;x
@@ -198,7 +198,7 @@ THC_anarcho_liberal;Democratic-Republican Party;x
 PLC_reactionary;Zgromadzenie Magnackie;x
 PLC_conservative;Zgromadzenie Szlacheckie;x
 PLC_liberal;Konfederacja Barska;x
-PLC_anarcho_liberal;Stonnictwo Republikañskie;x
+PLC_anarcho_liberal;Stonnictwo RepublikaÃ±skie;x
 GBJ;Great Britain;x
 GBJ_democracy;The British Republic;x
 GBJ_presidential_dictatorship;The British Republic;x
@@ -286,7 +286,7 @@ ORI_colonial_company;Khalahandi;x
 ORI;Orissa;x
 ORI_absolute_monarchy;Orissa;x
 ORI_prussian_constitutionalism;Orissa;x
-MND_ADJ;Batéan;x;;;;;;;;;;;;;;;;
+MND_ADJ;BatÃ©an;x;;;;;;;;;;;;;;;;
 KAK;Kartli;x;;;;;;;;;;;;;;;;
 KAK_ADJ;Kartlian;x;;;;;;;;;;;;;;;;
 BNY;Bunyoro;x;;;;;;;;;;;;;;;;
@@ -372,7 +372,7 @@ THC_anarcho_liberal;Democratic-Republican Party;x;;;;;;;;;;;;;;;;
 PLC_reactionary;Zgromadzenie Magnackie;x;;;;;;;;;;;;;;;;
 PLC_conservative;Zgromadzenie Szlacheckie;x;;;;;;;;;;;;;;;;
 PLC_liberal;Konfederacja Barska;x;;;;;;;;;;;;;;;;
-PLC_anarcho_liberal;Stonnictwo Republikañskie;x;;;;;;;;;;;;;;;;
+PLC_anarcho_liberal;Stonnictwo RepublikaÃ±skie;x;;;;;;;;;;;;;;;;
 GBJ;Great Britain;x;;;;;;;;;;;;;;;;
 GBJ_democracy;The British Republic;x;;;;;;;;;;;;;;;;
 GBJ_presidential_dictatorship;The British Republic;x;;;;;;;;;;;;;;;;
@@ -517,3 +517,9 @@ SOR_hms_government;The Duchy of Sora;x;;;;;;;;;;;;;;;;
 BRX;Brixen;x;;;;;;;;;;;;;;;;
 BRX_ADJ;Brixner;x;;;;;;;;;;;;;;;;
 BRX_theocracy;The Prince-Bishopric of Brixen;x;;;;;;;;;;;;;;;;
+CHA;Champa;x;;;;;;;;;;;;;;;;
+CHA_ADJ;Cham;x;;;;;;;;;;;;;;;;
+THR;Trinh Lords;x;;;;;;;;;;;;;;;;
+THR_ADJ;Trinh;x;;;;;;;;;;;;;;;;
+NGU;Nguyen Lords;x;;;;;;;;;;;;;;;;
+NGU_ADJ;Nguyen;x;;;;;;;;;;;;;;;;
